@@ -17,7 +17,7 @@ DESCRIPTION = metadata.get('description', 'Pairwise distances')
 AUTHOR = metadata.get('author', 'Manodeep Sinha')
 AUTHOR_EMAIL = metadata.get('author_email', '')
 LICENSE = metadata.get('license', 'unknown')
-URL = metadata.get('url', 'https://github.com/manodeep/pairdist')
+URL = metadata.get('url', 'https://github.com/clusterfunc/pairdist')
 __minimum_python_version__ = metadata.get("minimum_python_version", "3.5")
 
 # Enforce Python version check - this is the same check as in __init__.py but
